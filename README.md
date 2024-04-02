@@ -1,1 +1,1 @@
-# Database-design-Spotify
+# Podcasts Database Design 
