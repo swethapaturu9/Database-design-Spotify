@@ -1,6 +1,6 @@
 # Podcasts Database Design 
 
-This repository contains the design and creation of a schmea for a podcasts database like Spotify
+This repository contains the design and creation of a schema for a podcasts database like Spotify
 
 The Entity-Relationship Diagram: 
 
